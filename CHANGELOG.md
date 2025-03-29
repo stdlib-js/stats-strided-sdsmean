@@ -22,7 +22,6 @@
 
 <details>
 
--   [`cfe3cd1`](https://github.com/stdlib-js/stdlib/commit/cfe3cd1e32866c97242a9da931c11b05e83a23d2) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`a09564b`](https://github.com/stdlib-js/stdlib/commit/a09564bdf992e3a11b0533576db06d8f5c021ab3) - **feat:** add `stats/strided/sdsmean` _(by Aayush Khanna)_
 
 </details>
